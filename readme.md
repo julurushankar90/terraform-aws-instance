@@ -11,6 +11,6 @@ This module creates EC2 instance in AWS
 * tags - (Optional) map type, user can provide the tags they want to have.
 
 ## outputs
-instance_id -id of the instance created
-public_ip -public ip of the instance created
-private_ip -private ip of the instance created  
+* instance_id - id of the instance created
+* public_ip - public ip of the instance created
+* private_ip - private ip of the instance created 
